@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/home/nanbuwks/storage/KiCAD/ESPAR/ESPAR.sch</source>
+    <source>/home/nanbuwks/storage/KiCAD/ESCAR/ESCAR.sch</source>
     <date>2016年04月12日 15時56分50秒</date>
     <tool>Eeschema 4.0.2-4+6225~38~ubuntu15.04.1-stable</tool>
     <sheet number="1" name="/" tstamps="/">
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>ESPAR.sch</source>
+        <source>ESCAR.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
